@@ -29,8 +29,8 @@ The project combines **software development, image processing, simulation, netwo
 
 
 ## Showcase
-Demo Video: [![Real-time Drawing Robot Demo](images_readme/demo-thumbnail.jpg)](https://www.youtube.com/watch?v=acghttoedZw)
+- [Real-time Drawing Robot Demo](https://www.youtube.com/watch?v=acghttoedZw)
 
 <p align="center"> 
-<img src="https://user-images.githubusercontent.com/39928082/199998276-67d2aa06-8f68-43ae-b4f2-bddfe8cf1543.png" alt="SDU" title="SDU" width="80%" height="80%"/> 
+<img src="https://user-images.githubusercontent.com/39928082/199998276-67d2aa06-8f68-43ae-b4f2-bddfe8cf1543.png" alt="drawing-robot-results" width="80%" height="80%"/> 
 </p>
